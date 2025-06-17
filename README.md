@@ -62,7 +62,7 @@
 | [👨‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | Showcases skills, projects, resume, and contact info professionally. | HTML, CSS, JavaScript |
 | [🚙 Car Purchase Website](https://car-purchase.netlify.app/) | Browse, filter, and purchase cars online with detailed listings. | HTML, CSS, JavaScript |
 | [👤 Login / SignUp Form](https://signloginform.netlify.app/) |Register or login securely using email and password validation. | HTML, CSS, JavaScript |
-| [▶️ Youtube Clone](https://webyouclone.netlify.app/) | Stream, upload, and search videos in a YouTube-like interface. | HTML, CSS, JavaScript |
+| [🎥 Youtube Clone](https://webyouclone.netlify.app/) | Stream, upload, and search videos in a YouTube-like interface. | HTML, CSS, JavaScript |
 | [🧠 Tic Tac Toe Game](https://tictactoegamesio.netlify.app/) | Classic X and O game to win in three rows. | HTML, CSS, JavaScript |
 | [🐍 Snake Game](https://snakegamesio.netlify.app/) | Control a snake, eat food, grow longer, avoid crashing. | HTML, CSS, JavaScript |
 | [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | Shoot enemies in space, avoid collisions, and survive longer. | HTML, CSS, JavaScript |
