@@ -59,14 +59,14 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🎵 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
-| [✅ Car Purchase Website](https://github.com/GhanshyamJha05/todo-list-app) | A responsive and user-friendly task manager | HTML, CSS, JavaScript |
-| [🌐 Login / SignUp Form](https://github.com/GhanshyamJha05/program-using-html-css-and-js) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
-| [📘 Youtube Clone](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Tic Tac Toe Game](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Snake Game](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Space Shooter Game](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Car Game](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
+| [👨‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | Showcases skills, projects, resume, and contact info professionally. | HTML, CSS, JavaScript |
+| [🚙 Car Purchase Website](https://car-purchase.netlify.app/) | Browse, filter, and purchase cars online with detailed listings. | HTML, CSS, JavaScript |
+| [👤 Login / SignUp Form](https://signloginform.netlify.app/) |Register or login securely using email and password validation. | HTML, CSS, JavaScript |
+| [▶️ Youtube Clone](https://webyouclone.netlify.app/) | Stream, upload, and search videos in a YouTube-like interface. | HTML, CSS, JavaScript |
+| [🧠 Tic Tac Toe Game](https://tictactoegamesio.netlify.app/) | Classic X and O game to win in three rows. | HTML, CSS, JavaScript |
+| [🐍 Snake Game](https://snakegamesio.netlify.app/) | Control a snake, eat food, grow longer, avoid crashing. | HTML, CSS, JavaScript |
+| [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | Shoot enemies in space, avoid collisions, and survive longer. | HTML, CSS, JavaScript |
+| [🚗 Car Game](https://cargameio.netlify.app/) | Drive a car, avoid obstacles, and score high points. | HTML, CSS, JavaScript |
 
 
 ---
