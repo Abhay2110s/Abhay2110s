@@ -44,12 +44,49 @@
 
 ---
 
-## 🔥 Currently Building
+## 📚 Internship Journey — PrismStudio 🌐
 
-- 🚀 Real-world **JS Projects**
-- 📘 Strengthening **DSA** via LeetCode
-- 🔍 Exploring **Machine Learning**
-- 🌍 Portfolio revamp using **modern UI/UX**
+> **Web Development Internship (June–July 2025)**  
+> 🔗 [Project Repository](https://github.com/Harsh28Pandey/PrismStudio-Web-Development)
+
+<table>
+  <tr>
+    <td>🏢 Organization</td>
+    <td><b>PrismStudio</b></td>
+  </tr>
+  <tr>
+    <td>🛠 Technologies Used</td>
+    <td>HTML, CSS, JavaScript, GitHub, Netlify</td>
+  </tr>
+  <tr>
+    <td>📅 Duration</td>
+    <td>4 Weeks</td>
+  </tr>
+  <tr>
+    <td>📄 Tasks Completed</td>
+    <td>
+      <ul>
+        <li>✅ Built a fully responsive <b>Car Purchase Website</b></li>
+        <li>✅ Developed a <b>YouTube Clone</b> with custom styling</li>
+        <li>✅ Created interactive games like <b>Tic Tac Toe</b>, <b>Snake Game</b>, <b>Space Shooter</b></li>
+        <li>✅ Designed modern UI-based <b>Login/SignUp</b> forms</li>
+        <li>✅ Implemented cart system with <b>JS logic</b> and dynamic UI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>🌟 Key Learnings</td>
+    <td>
+      <ul>
+        <li>Responsive layout design with Flex/Grid</li>
+        <li>DOM Manipulation using JavaScript</li>
+        <li>Real-world problem solving through coding</li>
+        <li>Git & GitHub version control best practices</li>
+        <li>Web Deployment via Netlify</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
