@@ -44,49 +44,120 @@
 
 ---
 
-## 📚 Internship Journey — PrismStudio 🌐
+# 🌟 My Web Development Internship Journey (May–July 2025) 🚀
 
-> **Web Development Internship (June–July 2025)**  
-> 🔗 [Project Repository](https://github.com/Harsh28Pandey/PrismStudio-Web-Development)
+Welcome to my internship portfolio! Here I’ve documented my **hands-on learning, project contributions, and skills** developed during **two immersive Web Development internships**:
 
-<table>
-  <tr>
-    <td>🏢 Organization</td>
-    <td><b>PrismStudio</b></td>
-  </tr>
-  <tr>
-    <td>🛠 Technologies Used</td>
-    <td>HTML, CSS, JavaScript, GitHub, Netlify</td>
-  </tr>
-  <tr>
-    <td>📅 Duration</td>
-    <td>4 Weeks</td>
-  </tr>
-  <tr>
-    <td>📄 Tasks Completed</td>
-    <td>
-      <ul>
-        <li>✅ Built a fully responsive <b>Car Purchase Website</b></li>
-        <li>✅ Developed a <b>YouTube Clone</b> with custom styling</li>
-        <li>✅ Created interactive games like <b>Tic Tac Toe</b>, <b>Snake Game</b>, <b>Space Shooter</b></li>
-        <li>✅ Designed modern UI-based <b>Login/SignUp</b> forms</li>
-        <li>✅ Implemented cart system with <b>JS logic</b> and dynamic UI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>🌟 Key Learnings</td>
-    <td>
-      <ul>
-        <li>Responsive layout design with Flex/Grid</li>
-        <li>DOM Manipulation using JavaScript</li>
-        <li>Real-world problem solving through coding</li>
-        <li>Git & GitHub version control best practices</li>
-        <li>Web Deployment via Netlify</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🏢 **TechSonIx Solutions** — May 2025  
+- 🏢 **PrismStudio** — June to July 2025  
+
+Let’s dive into the code, the creativity, and the career-building experiences! 💻💡
+
+---
+
+## 🔵 TechSonIx Solutions Internship — May 2025 💼
+
+
+📍 **Location:** Remote (India)  
+📅 **Duration:** 4 Weeks (May 1 – May 30, 2025)  
+👨‍💻 **Role:** Web Development Intern  
+🎓 **Program:** TechSonIx Employability Program
+
+---
+
+### 🎯 Internship Goals:
+- 🛠️ Build responsive and mobile-friendly websites  
+- 💻 Apply core HTML, CSS, and JavaScript skills in real-world projects  
+- 📐 Learn design best practices for layout and user interfaces  
+- 🧠 Understand and follow real-world development workflows  
+
+---
+
+### 🌈 Key Accomplishments:
+
+- ✅ Designed clean, **responsive UIs** using **HTML5**, **CSS3**
+- ✅ Built **interactive web features** with **JavaScript**
+- ✅ Collaborated in structured environments using **Git**
+- ✅ Followed professional debugging and testing practices
+
+---
+
+### 🧰 Tech Stack:
+
+| Language/Tool | Icon | Skill |
+|---------------|------|-------|
+| HTML5         | 🧱   | ⭐⭐⭐⭐☆ |
+| CSS3          | 🎨   | ⭐⭐⭐⭐☆ |
+| JavaScript    | 🔧   | ⭐⭐⭐⭐☆ |
+| GitHub        | 🔃   | ⭐⭐⭐⭐☆ |
+
+---
+
+> 📜 _“This internship was a stepping stone that helped me evolve from a coder to a developer ready for real-world challenges.”_
+
+---
+
+## 🟣 PrismStudio Internship — June–July 2025 🧑‍🚀
+
+📍 **Location:** Remote (India)  
+📅 **Duration:** 30 Days (June 2025 – Ongoing)  
+👨‍💻 **Role:** Web Development Intern  
+🎓 **Program:** PrismStudio Summer Internship Cohort
+
+---
+
+### 🔥 What Makes This Internship Special?
+
+- 💼 Structured tasks with real-world impact  
+- 📈 Portfolio-focused projects and hands-on problem solving  
+- 🧠 Continuous mentorship & skill-building  
+- 🌐 Deployment-ready frontend applications
+
+---
+
+### 🌟 Skills Sharpened:
+
+- 🎨 Responsive Layout with CSS Flex/Grid  
+- 🧠 DOM Manipulation & JS Logic  
+- 🛠️ Component-Based UI Development  
+- 🔁 Version Control with Git & GitHub  
+- 🌐 Hosting via **Netlify**
+
+---
+
+### 🎓 Tech Toolbox:
+
+| Tech             | Badge |
+|------------------|-------|
+| HTML5            | 🧱     |
+| CSS3 + Animations| 🎨     |
+| JavaScript       | 🔧     |
+| Bootstrap        | 🅱️     |
+| Git & GitHub     | 🔁     |
+
+---
+
+> ✨ _"PrismStudio isn’t just a tech collective – it's a launchpad for career-ready coders like me to shine through impactful frontend development."_  
+
+---
+
+## 📂 Project Repository Access
+
+> 🔗 **All projects from both internships** are available in subfolders in this repository.  
+> Each project is fully functional, responsive, and built with a professional frontend focus.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Harsh's Portfolio Website](https://portfoliotechy.netlify.app/)
+- 💼 [Harsh's LinkedIn Profile](https://www.linkedin.com/in/harsh28pandey/)
+- 📧 harsh28.knp@gmail.com
+
+---
+
+> 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_  
+> 💬 Feel free to fork, explore, and collaborate!
 
 ---
 
