@@ -49,7 +49,8 @@
 Welcome to my internship portfolio! Here I’ve documented my **hands-on learning, project contributions, and skills** developed during **two immersive Web Development internships**:
 
 - 🏢 **TechSonIx Solutions** — May 2025  
-- 🏢 **PrismStudio** — June to July 2025  
+- 🏢 **PrismStudio** — June to July 2025
+- 🏢 **Oasis Infobyte** — July to August 2025  
 
 Let’s dive into the code, the creativity, and the career-building experiences! 💻💡
 
@@ -97,7 +98,7 @@ Let’s dive into the code, the creativity, and the career-building experiences!
 
 ---
 
-## 🟣 PrismStudio Internship — June–July 2025 🧑‍🚀
+## 🟣 PrismStudio Internship — June to July 2025 🧑‍🚀
 
 📍 **Location:** Remote (India)  
 📅 **Duration:** 30 Days (June 2025 – Ongoing)  
@@ -140,6 +141,48 @@ Let’s dive into the code, the creativity, and the career-building experiences!
 > ✨ _"PrismStudio isn’t just a tech collective – it's a launchpad for career-ready coders like me to shine through impactful frontend development."_  
 
 ---
+
+## 🟡 Oasis Infobyte Internship — July to August 2025 💻
+
+📍 **Location:** Remote (India)  
+📅 **Duration:** 1 Month (July 2025 - Ongoing)  
+👨‍💻 **Role:** Web Development & Designing Intern    
+🎓 **Internship Type:** Project-based
+
+---
+
+### 📚 Internship Structure
+
+The internship was structured into:
+
+- 🔰 **Level 1 Tasks**:  
+  1️⃣ Landing Page  
+  2️⃣ Personal Portfolio Website  
+  3️⃣ Temperature Converter Web App
+
+- 🚀 **Level 2 Tasks**:  
+  1️⃣ Calculator  
+  2️⃣ Tribute Page  
+  3️⃣ To-Do Web App  
+  4️⃣ Login Authentication System
+
+- 🍕 **Final Project**:  
+  **Pizza Delivery Web App** — A complete, responsive online ordering system built with HTML, CSS & JS featuring cart 🛒, payment options 💳, and smooth animations 🎨.
+
+---
+
+### 🧠 Key Learnings
+
+- ✅ Responsive Web Design with CSS3  
+- ✅ DOM manipulation and JavaScript logic  
+- ✅ Authentication and user flow handling  
+- ✅ Clean code structure and modularity
+
+> 🙏 *Special thanks to **Oasis Infobyte 💻** for fostering a productive and exciting learning environment.*  
+> ✨ _“Code is not just what a computer understands. It’s what a human creates.”_
+
+---
+
 
 ## 📂 Project Repository Access
 
