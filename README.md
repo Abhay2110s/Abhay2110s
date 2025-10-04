@@ -24,7 +24,7 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react" />
 </p>
 
 ### 🔧 Tools & IDEs  
