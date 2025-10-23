@@ -29,16 +29,8 @@
 
 ### 🔧 Tools & IDEs  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [Harsh's Portfolio Website](https://portfoliotechy.netlify.app/)
-- 💼 [Harsh's LinkedIn Profile](https://www.linkedin.com/in/harsh28pandey/)
-- 📧 harsh28.knp@gmail.com
 
 ---
 
@@ -70,10 +62,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/pandey28harsh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
   <a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/your_instagram_username/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Harsh28Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 📊 GitHub Insights
