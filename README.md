@@ -35,28 +35,32 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages  
+### 💻 Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
 </p>
 
 ---
 
-### 🗄️ Databases  
+### 🗄️ Databases
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ---
 
-### 🧩 Frameworks / Libraries  
+### 🧩 Frameworks / Libraries
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,tailwind" />
 </p>
 
 ---
 
-### 🔧 Tools & IDEs  
+### 🔧 Tools & IDEs
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -72,16 +76,16 @@
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Used | 🔗 Live Link |
-|-----------|----------------|--------------|---------------|
-|  Portfolio | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/) |
-|  Car Purchase | Buy & browse car listings | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/) |
-|  Auth Form | Secure Login/SignUp page | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/) |
-|  YouTube Clone | UI of video-sharing app | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/) |
-|  Tic Tac Toe | Classic 2-player game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/) |
-|  Snake Game | Eat & grow retro game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/) |
-|  Space Shooter | Avoid & attack in space | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
-|  Car Game | Navigate traffic game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/) |
+| 🚀 Project    | 📝 Description               | 🛠️ Tech Used                | 🔗 Live Link                                            |
+| ------------- | ---------------------------- | --------------------------- | ------------------------------------------------------- |
+| Portfolio     | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/)     |
+| Car Purchase  | Buy & browse car listings    | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/)       |
+| Auth Form     | Secure Login/SignUp page     | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/)      |
+| YouTube Clone | UI of video-sharing app      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/)        |
+| Tic Tac Toe   | Classic 2-player game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/)   |
+| Snake Game    | Eat & grow retro game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/)       |
+| Space Shooter | Avoid & attack in space      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
+| Car Game      | Navigate traffic game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/)          |
 
 </div>
 
@@ -104,16 +108,16 @@
 <div align="center">
   
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh28pandey&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh28pandey&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1000"" alt="harsh28pandey" />
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh28pandey&show_icons=true&locale=en&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh28pandey&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1000"" alt="harsh28pandey" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh28pandey&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh28pandey&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1000"" alt="harsh28pandey" />
 </p>
 
 </div>
@@ -132,30 +136,29 @@
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Platform | 🔗 Live Link |
-|------------------|-------------|---------------|
-| Python 101 for Data Science | IBM Developer Skills Network | [View Certificate](https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0) |
-| SQL and Relational Databases 101 | IBM Developer Skills Network | [View Certificate](https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130) |
-| Initiation Lakshya CyberSecurity Quiz | United Latino Students Association | [View Certificate](https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1) |
-| C++ Bootcamp Course | LetsUpgrade | [View Certificate](https://verify.letsupgrade.in/certificate/LUECPPJAN125651) |
-| AWS APAC - Solutions Architecture Job Simulation | Forage | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf) |
-| HTML & CSS Bootcamp | LetsUpgrade | [View Certificate](https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059) |
+| 🎓 Certification                                 | 🏢 Platform                        | 🔗 Live Link                                                                                                                                                                                              |
+| ------------------------------------------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Python 101 for Data Science                      | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0)                                                                                                       |
+| SQL and Relational Databases 101                 | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130)                                                                                                       |
+| Initiation Lakshya CyberSecurity Quiz            | United Latino Students Association | [View Certificate](https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1)                                                                                                               |
+| C++ Bootcamp Course                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUECPPJAN125651)                                                                                                                             |
+| AWS APAC - Solutions Architecture Job Simulation | Forage                             | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf) |
+| HTML & CSS Bootcamp                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059)                                                                                                                           |
 
 </div>
-
 
 ---
 
 ## 💡 Quote That Inspires Me
 
-> *"💻 Code is like humor. When you have to explain it, it's bad."*  
+> _"💻 Code is like humor. When you have to explain it, it's bad."_  
 > — Cory House
 
 ---
 
 ## 🐍 Contribution Graph Snake
 
-> *Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍*
+> _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
 
 ---
 
