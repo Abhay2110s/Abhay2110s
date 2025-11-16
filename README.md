@@ -54,16 +54,20 @@
 
 <div align="center">
 
-| 🚨 Project | 📝 Description | ⚙️ Tech |
-|-----------|----------------|--------|
-| [💼 Portfolio](https://portfoliotechy.netlify.app/) | Personal developer portfolio | `HTML`, `CSS`, `JS` |
-| [🚗 Car Purchase](https://car-purchase.netlify.app/) | Buy & browse car listings | `HTML`, `CSS`, `JS` |
-| [🔐 Auth Form](https://signloginform.netlify.app/) | Secure Login/SignUp page | `HTML`, `CSS`, `JS` |
-| [📺 YouTube Clone](https://webyouclone.netlify.app/) | UI of video-sharing app | `HTML`, `CSS`, `JS` |
-| [⭕❌ Tic Tac Toe](https://tictactoegamesio.netlify.app/) | Classic 2-player game | `HTML`, `CSS`, `JS` |
-| [🐍 Snake Game](https://snakegamesio.netlify.app/) | Eat & grow retro game | `HTML`, `CSS`, `JS` |
-| [🛸 Space Shooter](https://spaceshootergameio.netlify.app/) | Avoid & attack in space | `HTML`, `CSS`, `JS` |
-| [🏎️ Car Game](https://cargameio.netlify.app/) | Navigate traffic game | `HTML`, `CSS`, `JS` |
+| 🚀 Project | 📝 Description | 🛠️ Tech Used | 🔗 Live Link |
+|-----------|----------------|--------------|---------------|
+| 💼 Portfolio | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/) |
+| 🚗 Car Purchase | Buy & browse car listings | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/) |
+| 🔐 Auth Form | Secure Login/SignUp page | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/) |
+| 📺 YouTube Clone | UI of video-sharing app | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/) |
+| ⭕❌ Tic Tac Toe | Classic 2-player game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/) |
+| 🐍 Snake Game | Eat & grow retro game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/) |
+| 🛸 Space Shooter | Avoid & attack in space | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
+| 🏎️ Car Game | Navigate traffic game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/) |
+
+</div>
+
+
 
 </div>
 
