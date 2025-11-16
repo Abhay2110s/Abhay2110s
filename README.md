@@ -108,52 +108,20 @@
 
 ## 🏆 Certifications & Achievements
 
-<table>
-  <tr>
-    <th>Certification</th>
-    <th>Platform</th>
-    <th>Live Link</th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td>Python 101 for Data Science</td>
-    <td>IBM Developer Skills Network</td>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
+| 🎓 Certification | 🏢 Platform | 🔗 Live Link |
+|------------------|-------------|---------------|
+| Python 101 for Data Science | IBM Developer Skills Network | [View Certificate](https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0) |
+| SQL and Relational Databases 101 | IBM Developer Skills Network | [View Certificate](https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130) |
+| Initiation Lakshya CyberSecurity Quiz | United Latino Students Association | [View Certificate](https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1) |
+| C++ Bootcamp Course | LetsUpgrade | [View Certificate](https://verify.letsupgrade.in/certificate/LUECPPJAN125651) |
+| AWS APAC - Solutions Architecture Job Simulation | Forage | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf) |
+| HTML & CSS Bootcamp | LetsUpgrade | [View Certificate](https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059) |
 
-  <tr>
-    <td>SQL and Relational Databases 101</td>
-    <td>IBM Developer Skills Network</td>
-    <td><a href="https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
+</div>
 
-  <tr>
-    <td>Initiation Lakshya CyberSecurity Quiz</td>
-    <td>United Latino Students Association</td>
-    <td><a href="https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
 
-  <tr>
-    <td>C++ Bootcamp Course </td>
-    <td>LetsUpgrade</td>
-    <td><a href="https://verify.letsupgrade.in/certificate/LUECPPJAN125651" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
-
-  <tr>
-    <td>AWS APAC - Solutions Architecture Job Simulation</td>
-    <td>Forage</td>
-    <td><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
-
-  <tr>
-    <td>HTML & CSS Bootcamp</td>
-    <td>LetsUpgrade</td>
-    <td><a href="https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059" style="text-decoration:none;">View Certificate</a></td>
-  </tr>
-
-</table>
-
----
 ---
 
 ## 💡 Quote That Inspires Me
