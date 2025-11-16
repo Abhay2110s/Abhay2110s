@@ -3,7 +3,7 @@
   <img 
        src="animated.png" 
        alt="Top Image"
-       width="650"
+       width="500"
        height="200"
        style="border-radius: 30px;"
   />
