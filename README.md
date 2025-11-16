@@ -1,3 +1,14 @@
+<!-- PROFILE HEADER IMAGE -->
+<p align="center">
+  <img 
+       src="https://t3.ftcdn.net/jpg/09/36/19/50/240_F_936195073_m7ripEOiTp3ey5fJRHa0oBByb2c0WLa1.jpg" 
+       alt="Top Image"
+       width="1000"
+       height="350"
+       style="border-radius: 10px;"
+  />
+</p>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;Aspiring+Software+Engineer;Web+%26+App+Developer;Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
