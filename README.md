@@ -84,16 +84,16 @@
 ## 📊 GitHub Insights
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh28pandey&show_icons=true&locale=en&layout=compact&theme=dark" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh28pandey&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
 </p>
 
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh28pandey&show_icons=true&locale=en&theme=dark" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh28pandey&show_icons=true&locale=en&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh28pandey&theme=dark" alt="harsh28pandey" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh28pandey&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
 </p>
 
 ---
