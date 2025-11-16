@@ -108,12 +108,19 @@
 
 ## 🏆 Certifications & Achievements
 
-- ✅ C++ Programming – HackerRank  
-- ✅ Python Programming – Great Learning, Coursera  
-- ✅ Web Development Bootcamp – Udemy  
-- ✅ Frontend Projects – PrismStudio Internship  
-- 📊 Machine Learning – IBM SkillBuild *(In Progress)*
+[![C++ Programming – HackerRank](https://img.shields.io/badge/C%2B%2B_Programming-HackerRank-0a66c2?style=for-the-badge&logo=c%2B%2B)](https://www.hackerrank.com/certificates/your-link)
 
+[![Python Programming – Great Learning](https://img.shields.io/badge/Python_Programming-Great_Learning-ffd343?style=for-the-badge&logo=python)](https://www.mygreatlearning.com/your-link)
+
+[![Python Programming – Coursera](https://img.shields.io/badge/Python_Programming-Coursera-0056d2?style=for-the-badge&logo=coursera)](https://www.coursera.org/verify/your-link)
+
+[![Web Development Bootcamp – Udemy](https://img.shields.io/badge/Web_Development_Bootcamp-Udemy-a435f0?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/your-link)
+
+[![Frontend Projects – PrismStudio Internship](https://img.shields.io/badge/Frontend_Projects-PrismStudio-e91e63?style=for-the-badge&logo=html5)](https://prismstudio.com/your-link)
+
+[![Machine Learning – IBM SkillBuild (In Progress)](https://img.shields.io/badge/Machine_Learning-IBM_SkillBuild_(In_Progress)-052fbe?style=for-the-badge&logo=ibm)](https://skillsbuild.org/your-course-link)
+
+---
 ---
 
 ## 💡 Quote That Inspires Me
