@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER IMAGE -->
 <p align="center">
   <img 
-       src="https://t3.ftcdn.net/jpg/09/36/19/50/240_F_936195073_m7ripEOiTp3ey5fJRHa0oBByb2c0WLa1.jpg" 
+       src="" 
        alt="Top Image"
        width="1000"
        height="350"
@@ -108,17 +108,50 @@
 
 ## 🏆 Certifications & Achievements
 
-[![C++ Programming – HackerRank](https://img.shields.io/badge/C%2B%2B_Programming-HackerRank-0a66c2?style=for-the-badge&logo=c%2B%2B)](https://www.hackerrank.com/certificates/your-link)
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Platform</th>
+    <th>Live Link</th>
+  </tr>
 
-[![Python Programming – Great Learning](https://img.shields.io/badge/Python_Programming-Great_Learning-ffd343?style=for-the-badge&logo=python)](https://www.mygreatlearning.com/your-link)
+  <tr>
+    <td>Python 101 for Data Science</td>
+    <td>IBM Developer Skills Network</td>
+    <td><a href="https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
 
-[![Python Programming – Coursera](https://img.shields.io/badge/Python_Programming-Coursera-0056d2?style=for-the-badge&logo=coursera)](https://www.coursera.org/verify/your-link)
+  <tr>
+    <td>SQL and Relational Databases 101</td>
+    <td>IBM Developer Skills Network</td>
+    <td><a href="https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
 
-[![Web Development Bootcamp – Udemy](https://img.shields.io/badge/Web_Development_Bootcamp-Udemy-a435f0?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/your-link)
+  <tr>
+    <td>Initiation Lakshya CyberSecurity Quiz</td>
+    <td>United Latino Students Association</td>
+    <td><a href="https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
 
-[![Frontend Projects – PrismStudio Internship](https://img.shields.io/badge/Frontend_Projects-PrismStudio-e91e63?style=for-the-badge&logo=html5)](https://prismstudio.com/your-link)
+  <tr>
+    <td>C++ Bootcamp Course </td>
+    <td>LetsUpgrade</td>
+    <td><a href="https://verify.letsupgrade.in/certificate/LUECPPJAN125651" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
 
-[![Machine Learning – IBM SkillBuild (In Progress)](https://img.shields.io/badge/Machine_Learning-IBM_SkillBuild_(In_Progress)-052fbe?style=for-the-badge&logo=ibm)](https://skillsbuild.org/your-course-link)
+  <tr>
+    <td>AWS APAC - Solutions Architecture Job Simulation</td>
+    <td>Forage</td>
+    <td><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
+
+  <tr>
+    <td>HTML & CSS Bootcamp</td>
+    <td>LetsUpgrade</td>
+    <td><a href="https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059" style="text-decoration:none;">View Certificate</a></td>
+  </tr>
+
+</table>
 
 ---
 ---
