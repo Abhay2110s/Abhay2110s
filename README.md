@@ -107,3 +107,19 @@
 <p align="center">
   🚀 *Let’s innovate, collaborate, and build the future together!*
 </p>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+> *Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍*
+
+---
+
+<div align="center">
+  
+  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
