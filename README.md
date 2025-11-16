@@ -98,6 +98,14 @@
 
 ---
 
+## 🏆 GitHub Achievements (All-Time)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh28pandey&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🏆 Certifications & Achievements
 
 - ✅ C++ Programming – HackerRank  
