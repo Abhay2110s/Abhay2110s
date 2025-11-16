@@ -11,21 +11,23 @@
 
 <!-- PROFILE HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;Aspiring+Software+Engineer;Web+%26+App+Developer;Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;Problem+Solver;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Developer-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Frontend%20Developer-%2300C4FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** @ *Kanpur Institute of Technology*
-- 🌱 Learning **Full Stack Development**, exploring **AI/ML**, and practicing **DSA**
+- 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
+- 🌱 Learning **Full Stack Development**, exploring and Practicing **DSA**
 - 🛠️ Passionate about building **user-centric products**
 - 🤝 Open to **collaboration**, **internships**, and **tech community involvement**
 
@@ -35,12 +37,28 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
 </p>
+
+---
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+---
+
+### 🧩 Frameworks / Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,tailwind" />
+</p>
+
+---
 
 ### 🔧 Tools & IDEs  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -56,18 +74,14 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Used | 🔗 Live Link |
 |-----------|----------------|--------------|---------------|
-| 💼 Portfolio | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/) |
-| 🚗 Car Purchase | Buy & browse car listings | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/) |
-| 🔐 Auth Form | Secure Login/SignUp page | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/) |
-| 📺 YouTube Clone | UI of video-sharing app | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/) |
-| ⭕❌ Tic Tac Toe | Classic 2-player game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/) |
-| 🐍 Snake Game | Eat & grow retro game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/) |
-| 🛸 Space Shooter | Avoid & attack in space | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
-| 🏎️ Car Game | Navigate traffic game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/) |
-
-</div>
-
-
+|  Portfolio | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/) |
+|  Car Purchase | Buy & browse car listings | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/) |
+|  Auth Form | Secure Login/SignUp page | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/) |
+|  YouTube Clone | UI of video-sharing app | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/) |
+|  Tic Tac Toe | Classic 2-player game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/) |
+|  Snake Game | Eat & grow retro game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/) |
+|  Space Shooter | Avoid & attack in space | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
+|  Car Game | Navigate traffic game | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/) |
 
 </div>
 
@@ -87,6 +101,8 @@
 
 ## 📊 GitHub Insights
 
+<div align="center">
+  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh28pandey&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
 </p>
@@ -99,6 +115,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh28pandey&theme=dark&include_all_commits=true&cache_seconds=7200"" alt="harsh28pandey" />
 </p>
+
+</div>
 
 ---
 
