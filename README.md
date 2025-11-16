@@ -99,6 +99,9 @@
   <a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/your_instagram_username/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/Harsh28Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href=""><img src="https://komarev.com/ghpvc/?username=harsh28pandey&style=for-the-badge&labelColor=000&color=orange&logo=eye" /></a>
+  <a href=""><img src="https://img.shields.io/github/followers/harsh28pandey?label=Followers&style=for-the-badge&color=0FA3B1&labelColor=000" /></a>
+  <a href=""><img src="https://img.shields.io/github/stars/harsh28pandey?style=for-the-badge&color=FFD700&labelColor=000" /></a>
 </p>
 
 ---
@@ -131,6 +134,11 @@
 </p>
 
 ---
+
+ <!-- Dev Metrics Card
+ <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh28pandey&theme=radical" />
+  </p> -->
 
 ## 🏆 Certifications & Achievements
 
