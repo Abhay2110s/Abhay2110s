@@ -1,11 +1,11 @@
 <!-- PROFILE HEADER IMAGE -->
 <p align="center">
   <img 
-       src="" 
+       src="animated.png" 
        alt="Top Image"
-       width="1000"
-       height="350"
-       style="border-radius: 10px;"
+       width="850"
+       height="300"
+       style="border-radius: 30px;"
   />
 </p>
 
