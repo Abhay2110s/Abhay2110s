@@ -179,7 +179,7 @@
 ---
 
 <p align="center">
-  🚀 *Let’s innovate, collaborate, and build the future together!*
+  🚀 Let’s innovate, collaborate, and build the future together!
 </p>
 
 ---
