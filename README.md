@@ -66,11 +66,10 @@
 </p>
 
 ---
-
+<!--
 > 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_  
 > 💬 Feel free to fork, explore, and collaborate!
-
----
+-->
 
 ## 🚀 Featured Projects
 
