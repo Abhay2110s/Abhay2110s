@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER IMAGE -->
 <p align="center">
   <img 
-       src="animated.png" 
+       src="https://share.google/iorYaYe9GYSOyzs1G"
        alt="Top Image"
        width="500"
        height="200"
