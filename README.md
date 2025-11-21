@@ -164,7 +164,6 @@
 
 ---
 
-<!-- 
 ## 🐍 Contribution Graph Snake
 
 > _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
@@ -176,17 +175,6 @@
   <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
--->
-
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900">
-</p>
 
 ---
 
