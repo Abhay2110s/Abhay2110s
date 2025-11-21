@@ -92,6 +92,7 @@
 
 ## 🌐 Connect with Me
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
