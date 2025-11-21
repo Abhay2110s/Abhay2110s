@@ -92,7 +92,6 @@
 
 ## 🌐 Connect with Me
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
@@ -158,13 +157,6 @@
 
 ---
 
-## 💡 Quote That Inspires Me
-
-> _"💻 Code is like humor. When you have to explain it, it's bad."_  
-> — Cory House
-
----
-
 ## 🐍 Contribution Graph Snake
 
 > _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
@@ -179,8 +171,17 @@
 
 ---
 
+## 💡 Quote That Inspires Me
+
+> _"💻 Code is like humor. When you have to explain it, it's bad."_  
+> — Cory House
+
+---
+
+<!--
 <p align="center">
   🚀 Let’s innovate, collaborate, and build the future together!
 </p>
+-->
 
 ---
