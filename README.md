@@ -178,13 +178,15 @@
 </div>
 -->
 
-<h1 align="center">✨ Contribution Snake ✨</h1>
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900">
 </p>
 
-<p align="center">🔥 Auto-updated every day 🔥</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900">
+</p>
 
 ---
 
