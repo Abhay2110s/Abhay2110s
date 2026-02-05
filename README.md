@@ -71,59 +71,27 @@
 > 💬 Feel free to fork, explore, and collaborate!
 -->
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| 🚀 Project    | 📝 Description               | 🛠️ Tech Used                | 🔗 Live Link                                            |
-| ------------- | ---------------------------- | --------------------------- | ------------------------------------------------------- |
-| Portfolio     | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/)     |
-| Car Purchase  | Buy & browse car listings    | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/)       |
-| Auth Form     | Secure Login/SignUp page     | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/)      |
-| YouTube Clone | UI of video-sharing app      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/)        |
-| Tic Tac Toe   | Classic 2-player game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/)   |
-| Snake Game    | Eat & grow retro game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/)       |
-| Space Shooter | Avoid & attack in space      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
-| Car Game      | Navigate traffic game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/)          |
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
-  <a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your_instagram_username/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Harsh28Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=harsh28pandey&style=for-the-badge&labelColor=000&color=orange&logo=eye" /></a>
-  <a href=""><img src="https://img.shields.io/github/followers/harsh28pandey?label=Followers&style=for-the-badge&color=0FA3B1&labelColor=000" /></a>
-  <a href=""><img src="https://img.shields.io/github/stars/harsh28pandey?style=for-the-badge&color=FFD700&labelColor=000" /></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Harsh's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay2110s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Abhay's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Harsh28Pandey&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Abhay2110s&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
@@ -143,20 +111,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh28pandey&theme=radical" />
   </p> -->
 
-## 🏆 Certifications & Achievements
 
-<div align="center">
-
-| 🎓 Certification                                 | 🏢 Platform                        | 🔗 Live Link                                                                                                                                                                                              |
-| ------------------------------------------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python 101 for Data Science                      | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0)                                                                                                       |
-| SQL and Relational Databases 101                 | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130)                                                                                                       |
-| Initiation Lakshya CyberSecurity Quiz            | United Latino Students Association | [View Certificate](https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1)                                                                                                               |
-| C++ Bootcamp Course                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUECPPJAN125651)                                                                                                                             |
-| AWS APAC - Solutions Architecture Job Simulation | Forage                             | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf) |
-| HTML & CSS Bootcamp                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059)                                                                                                                           |
-
-</div>
 
 ---
 
