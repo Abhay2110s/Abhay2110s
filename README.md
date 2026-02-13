@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Singh;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;Problem+Solver;" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
