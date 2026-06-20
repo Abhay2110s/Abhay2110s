@@ -91,7 +91,7 @@
 
 <div align="center">
   
-  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img height="250" src="https://Abhay2110s-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
 
