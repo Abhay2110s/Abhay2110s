@@ -2,7 +2,13 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhay+%F0%9F%91%8B;CSE+Undergrad+%40+KIT+Kanpur;Full+Stack+Developer;Competitive+Programmer;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhay+Singh+%F0%9F%91%8B;CSE+Undergrad+%40+KIT+Kanpur;Full+Stack+Developer;Competitive+Programmer;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Abhay2110s">
+  <img src="https://img.shields.io/badge/GitHub-Abhay2110s-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
@@ -63,6 +69,23 @@ fun_fact: "I debug with print statements and I'm not ashamed."
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 
 </div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Library-Management-System**](https://github.com/Abhay2110s/Library-Management-System) | A system for managing library records, books, and transactions | `Python` |
+| [**DSA**](https://github.com/Abhay2110s/DSA) | Personal repo tracking Data Structures & Algorithms practice | `Java` |
+| [**collab-flow**](https://github.com/Abhay2110s/collab-flow) | Real-time team task manager — create, assign, and track tasks collaboratively | `JavaScript` |
+| [**smart-ai-planner**](https://github.com/Abhay2110s/smart-ai-planner) | MERN-based AI study planner that generates adaptive, burnout-aware timetables | `MongoDB` `Express` `React` `Node` |
+
+</div>
+
+> 💡 Also building **FlipTrack**, a full-stack app with React Router v7, Supabase auth, and Prisma ORM — repo coming soon.
 
 <br/>
 
