@@ -86,21 +86,28 @@ fun_fact: "I debug with print statements and I'm not ashamed."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay2110s&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Abhay2110s&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
+
+> ℹ️ The main `github-profile-trophy.vercel.app` instance is shared by everyone with a trophy card in their README, so it frequently gets rate-limited or paused. The URL above points to a community-hosted mirror instead. If it ever goes blank again, swap in one of these (just change the domain, keep the `?username=...` part):
+> - `https://github-profile-trophy-fork-two.vercel.app`
+> - `https://github-profile-trophy-winning.vercel.app`
+> - `https://github-profile-trophy-kannan.vercel.app`
+>
+> Or self-host your own permanent instance by forking `ryo-ma/github-profile-trophy` and deploying it to your own Vercel account (a couple minutes, and never rate-limited by anyone else's traffic).
 
 <br/>
 
 ## 🐍 Contribution Snake
 
-> Real GitHub-generated snake animation — this needs a one-time setup via GitHub Actions (see note below).
+> ⚠️ **This won't render until you complete the one-time GitHub Actions setup below.** It's not a broken link — there's simply no SVG generated yet until the workflow runs once in your own repo.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abhay2110s/Abhay2110s/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
+<details open>
+<summary>⚙️ How to enable the snake animation (required — do this now)</summary>
 
 <br/>
 
