@@ -36,8 +36,7 @@ currently_exploring:
 open_to:
   - Internships
   - Open source collaboration
-  - Tech community involvement
-fun_fact: "I debug with print statements and I'm not ashamed."
+  - 
 ```
 
 <br/>
