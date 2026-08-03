@@ -121,6 +121,5 @@ _"Code is like humor. When you have to explain it, it's bad."_
   
   ### 🚀 Let's innovate, collaborate, and build the future together!
 
-  <img src="https://komarev.com/ghpvc/?username=Abhay2110s&style=for-the-badge&color=blueviolet" alt="Profile views" />
-
+  
 </div>
