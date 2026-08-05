@@ -1,125 +1,265 @@
+````md
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhay+Singh+%F0%9F%91%8B;CSE+Undergrad+%40+KIT+Kanpur;Full+Stack+Developer;Competitive+Programmer;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Abhay%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20CSE%20Student&descAlignY=60"/>
 
-<br/>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abhay+Singh;Full+Stack+Developer;MERN+Stack+Enthusiast;400%2B+DSA+Problems+Solved;Building+Modern+Web+Applications;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+
+<br>
 
 <a href="https://github.com/Abhay2110s">
-  <img src="https://img.shields.io/badge/GitHub-Abhay2110s-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/CSE%20Undergrad-0077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge&logo=stackshare&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhay_2110/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```yaml
-name: Abhay
-role: CSE Undergraduate @ Kanpur Institute of Technology
-focus:
-  - Full Stack Development (MERN)
-  - Data Structures & Algorithms
-  - Building user-centric, polished products
-currently_exploring:
-  - Advanced React patterns & performance
-  - System design fundamentals
-open_to:
-  - Internships
-  - Open source collaboration
-  - 
+```bash
+> whoami
+
+Name        : Abhay Singh
+Education   : B.Tech CSE @ Kanpur Institute of Technology
+Location    : India
+
+Role        : Full Stack Developer
+
+Currently Working On
+--------------------
+✓ MERN Stack Projects
+✓ Smart AI Planner
+✓ FlipTrack
+✓ DSA & Competitive Programming
+
+Learning
+--------
+• Advanced React
+• Backend Architecture
+• System Design
+
+Open To
+-------
+✔ Software Engineering Internships
+✔ Open Source Contributions
+✔ Freelance Projects
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+# 🚀 Current Focus
 
-<div align="center">
+```text
+Full Stack Development        ████████████░░░░ 80%
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
+Data Structures & Algorithms  ███████████████░ 95%
 
-<br/><br/>
+Backend Development           ███████████░░░░░ 75%
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,tailwind" />
+System Design                 ██████░░░░░░░░░ 40%
 
-<br/><br/>
+Open Source                   ███████░░░░░░░░ 55%
+```
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+---
 
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Library-Management-System**](https://github.com/Abhay2110s/Library-Management-System) | A system for managing library records, books, and transactions | `Python` |
-| [**DSA**](https://github.com/Abhay2110s/DSA) | Personal repo tracking Data Structures & Algorithms practice | `Java` |
-| [**collab-flow**](https://github.com/Abhay2110s/collab-flow) | Real-time team task manager — create, assign, and track tasks collaboratively | `JavaScript` |
-| [**smart-ai-planner**](https://github.com/Abhay2110s/smart-ai-planner) | MERN-based AI study planner that generates adaptive, burnout-aware timetables | `MongoDB` `Express` `React` `Node` |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel"/>
 
 </div>
 
-> 💡 Also building **FlipTrack**, a full-stack app with React Router v7, Supabase auth, and Prisma ORM — repo coming soon.
+---
 
-<br/>
+# 🌟 Featured Projects
 
-## 📊 GitHub Analytics
+## 📚 Library Management System
+
+> Desktop application for managing books, students and issue records.
+
+**Tech Stack**
+
+`Python`
+
+🔗 https://github.com/Abhay2110s/Library-Management-System
+
+---
+
+## 📚 DSA Repository
+
+> Collection of Data Structures & Algorithms problems with Java solutions.
+
+**Tech Stack**
+
+`Java`
+
+🔗 https://github.com/Abhay2110s/DSA
+
+---
+
+## 🤝 Collab Flow
+
+> Real-time collaborative task manager with team workflow support.
+
+**Tech Stack**
+
+`JavaScript`
+
+🔗 https://github.com/Abhay2110s/collab-flow
+
+---
+
+## 🤖 Smart AI Planner
+
+> AI-powered MERN application that creates adaptive study schedules.
+
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node.js`
+
+---
+
+## 🚀 Coming Soon
+
+### FlipTrack
+
+Modern sneaker inventory platform built with
+
+- React Router v7
+- TypeScript
+- Supabase
+- Prisma
+- AI Integration
+
+---
+
+# 🏆 Competitive Programming
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhay2110s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Abhay's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+
+| Platform | Status |
+|----------|--------|
+| LeetCode | 400+ Problems Solved |
+| Java | Primary Language |
+| Focus | DSA + Problem Solving |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Abhay2110s&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=redical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-
-## 💬 Quote
+# 📊 GitHub Analytics
 
 <div align="center">
 
-_"Code is like humor. When you have to explain it, it's bad."_
-**— Cory House**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  
-  ### 🚀 Let's innovate, collaborate, and build the future together!
 
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay2110s&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhay2110s&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**– John Johnson**
+
+</div>
+
+---
+
+# 📈 2026 Goals
+
+- ✅ 500+ LeetCode Problems
+- 🚀 Build 5 Production-Level Projects
+- 🌍 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
+- 📚 Master System Design
+- ☁️ Learn Docker & AWS
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
+````
