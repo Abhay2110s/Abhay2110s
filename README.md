@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Abhay%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20CSE%20Student&descAlignY=60"/>
@@ -31,7 +31,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```bash
+
 > whoami
 
 Name        : Abhay Singh
@@ -58,13 +58,11 @@ Open To
 ✔ Software Engineering Internships
 ✔ Open Source Contributions
 ✔ Freelance Projects
-```
 
----
 
 # 🚀 Current Focus
 
-```text
+
 Full Stack Development        ████████████░░░░ 80%
 
 Data Structures & Algorithms  ███████████████░ 95%
@@ -74,9 +72,9 @@ Backend Development           ███████████░░░░░ 7
 System Design                 ██████░░░░░░░░░ 40%
 
 Open Source                   ███████░░░░░░░░ 55%
-```
 
----
+
+
 
 # ⚡ Tech Arsenal
 
@@ -104,7 +102,7 @@ Open Source                   ███████░░░░░░░░ 55%
 
 </div>
 
----
+
 
 # 🌟 Featured Projects
 
