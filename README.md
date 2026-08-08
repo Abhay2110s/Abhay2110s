@@ -130,22 +130,22 @@ AI-powered study planner for organizing learning goals and study routines.
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    width="48%"
   />
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=github_dark&hide_border=true"
+    width="48%"
   />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=github-dark-blue&hide_border=true&border_radius=12"
+    src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=github-dark-blue&hide_border=true"
     width="70%"
   />
 </p>
@@ -156,19 +156,8 @@ AI-powered study planner for organizing learning goals and study routines.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=github-compact&hide_border=true&area=true"
     width="100%"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Abhay2110s&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="95%"
   />
 </p>
 
