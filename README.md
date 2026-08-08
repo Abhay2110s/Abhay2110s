@@ -1,90 +1,58 @@
-
-
-# 👋 Hi, I'm Abhay Singh
-
-### Full Stack Developer • MERN Enthusiast • Competitive Programmer
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay2110s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Abhay2110s?label=Followers&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Abhay2110s?label=Stars&style=flat" alt="GitHub Stars" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=230&section=header&text=Abhay%20Singh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;MERN+Stack+Developer;Problem+Solver;Exploring+System+Design;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abhay2110s">
+    <img src="https://img.shields.io/github/followers/Abhay2110s?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abhay2110s&label=Profile%20Views&style=for-the-badge&color=2563EB" />
 </p>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-```text
-> whoami
+I'm **Abhay Singh**, a B.Tech CSE student and Full Stack Developer passionate about creating practical software and solving challenging problems.
 
-Name        : Abhay Singh
-Role        : Full Stack Developer
-Education   : B.Tech CSE
-Location    : India
-```
+My primary focus is the **MERN ecosystem**, while I continue exploring backend architecture, system design, and scalable applications.
 
-### 🎯 Focus Areas
-
-* 💻 MERN Stack Development
+* 🎓 B.Tech — Computer Science & Engineering
+* 💻 Full Stack Development
+* ⚛️ MERN Stack
 * 🧠 Data Structures & Algorithms
-* 🚀 Building User-Centric Applications
-* 🌐 Backend & API Development
-* ⚙️ Problem Solving
-
-### 📚 Currently Learning
-
-* ⚛️ Advanced React
-* 🟢 Backend Development
 * 🏗️ System Design
-* ☁️ Production-ready Application Development
-
-### 🤝 Open To
-
-* ✓ Software Engineering Internships
-* ✓ Open Source Collaboration
-* ✓ Interesting Development Projects
-
----
-
-# 🚀 Current Focus
-
-```text
-MERN Stack Development     ██████████████░░ 85%
-Data Structures            ████████████████ 100%
-React                      █████████████░░░ 80%
-Node.js                    ████████████░░░░ 75%
-System Design              ███████░░░░░░░░░ 45%
-```
+* 🌍 Open Source
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 </p>
 
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### 🔧 Tools & Platforms
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
@@ -94,233 +62,176 @@ System Design              ███████░░░░░░░░░ 45%
 
 # 🚀 Featured Projects
 
-| Project                          | Description                                                    | Tech Stack                          | Status         |
-| -------------------------------- | -------------------------------------------------------------- | ----------------------------------- | -------------- |
-| 📚 **Library Management System** | Library management application for handling books and records. | Python                              | ✅ Completed    |
-| 💻 **DSA Repository**            | Collection of Data Structures & Algorithms solutions.          | Java                                | 🚀 Active      |
-| 🤝 **Collab Flow**               | Real-time collaborative task management application.           | JavaScript                          | 🚀 Active      |
-| 🤖 **Smart AI Planner**          | AI-powered study planner built using the MERN stack.           | MongoDB • Express • React • Node.js | 🚧 In Progress |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+Library management application for handling books and records.
+
+**Stack**
+
+`Python`
+
+**Status:** ✅ Completed
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 DSA Repository
+
+Collection of Data Structures & Algorithms solutions and implementations.
+
+**Stack**
+
+`Java`
+
+**Status:** 🚀 Active
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 Collab Flow
+
+Real-time collaborative task management application focused on team productivity.
+
+**Stack**
+
+`JavaScript`
+
+**Status:** 🚀 Active
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Smart AI Planner
+
+AI-powered study planner for organizing learning goals and study routines.
+
+**Stack**
+
+`MongoDB` · `Express` · `React` · `Node.js`
+
+**Status:** 🚧 In Progress
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=github-dark-blue&hide_border=true&border_radius=12"
+    width="70%"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay2110s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Abhay2110s&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"
+    width="95%"
+  />
 </p>
 
 ---
 
-# 💻 Competitive Programming
+# 🌱 Currently Exploring
 
-| Platform               | Details                                                 |
-| ---------------------- | ------------------------------------------------------- |
-| 💛 **LeetCode**        | 400+ Problems Solved                                    |
-| ☕ **Primary Language** | Java                                                    |
-| 🎯 **Focus**           | DSA & Interview Preparation                             |
-| 🧩 **Problem Solving** | Arrays • Strings • Trees • Graphs • DP • Sliding Window |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,aws" />
+</p>
+
+<p align="center">
+  <b>Advanced React</b> ·
+  <b>Backend Architecture</b> ·
+  <b>System Design</b> ·
+  <b>Cloud & Deployment</b> ·
+  <b>Application Security</b>
+</p>
 
 ---
 
-# 📊 Coding Progress
+# 🎯 2026 Goals
+
+* 🚀 Build production-ready MERN applications
+* 🏗️ Develop strong system-design fundamentals
+* 🌍 Make meaningful open-source contributions
+* 🤖 Build useful AI-powered applications
+* 💼 Grow as a software engineer
+
+---
+
+# 💡 Philosophy
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/abhay_2110?theme=dark&font=Baloo%202&ext=heatmap" />
+### `Think → Build → Learn → Improve`
 
 </p>
-
----
-
-# 🎯 Current Goals
-
-* 🚀 Build Production-Ready MERN Applications
-* 📚 Strengthen Data Structures & Algorithms
-* 🌍 Contribute to Open Source
-* 💼 Secure a Software Engineering Internship
-* ⚡ Learn System Design
-* 🏗️ Build scalable backend systems
-
----
-
-# 📌 What I'm Working On
-
-```text
-┌──────────────────────────────────────────────┐
-│              CURRENTLY BUILDING              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🚀 MERN Stack Applications                  │
-│  🧠 DSA & Competitive Programming            │
-│  ⚙️ Backend APIs & Authentication             │
-│  🤖 AI-powered Applications                  │
-│  🏗️ System Design                            │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 💡 Developer Philosophy
 
 > **"First, solve the problem. Then, write the code."**
+>
 > — John Johnson
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
 <p align="center">
 
 <a href="https://github.com/Abhay2110s">
-  <img src="https://img.shields.io/badge/GitHub-Abhay2110s-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Abhay2110s-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/abhay_2110/">
-  <img src="https://img.shields.io/badge/LeetCode-Abhay_2110-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, consider giving a ⭐ to my repositories.**
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00c6ff&height=100&section=footer" />
+  <b>⚡ Code. Create. Contribute.</b>
 </p>
 
-
----
-
-# 💫 About Me
-
-> whoami
-
-Name        : Abhay Singh
-
-Role        : Full Stack Developer
-
-Education   : B.Tech CSE
-
-## Focus Areas
-
-• MERN Stack Development
-• Data Structures & Algorithms
-• Building User-Centric Applications
-
-## Currently Learning
-
-• Advanced React
-• Backend Development
-• System Design
-
-## Open To
-
-✓ Software Engineering Internships
-✓ Open Source Collaboration
-
-# 🚀 Current Focus
-
-MERN Stack Development     ██████████████░░ 85%
-
-Data Structures            ████████████████ 100%
-
-React                      █████████████░░░ 80%
-
-Node.js                    ████████████░░░░ 75%
-
-System Design              ███████░░░░░░░░░ 45%
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-### Frontend
-
-### Backend
-
-### Database
-
-### Tools
-
----
-
-# 🚀 Featured Projects
-
-| Project                          | Description                                                    | Tech Stack                          | Status         |
-| -------------------------------- | -------------------------------------------------------------- | ----------------------------------- | -------------- |
-| **📚 Library Management System** | Library management application for handling books and records. | Python                              | ✅ Completed    |
-| **💻 DSA Repository**            | Collection of Data Structures & Algorithms solutions.          | Java                                | 🚀 Active      |
-| **🤝 Collab Flow**               | Real-time collaborative task management application.           | JavaScript                          | 🚀 Active      |
-| **🤖 Smart AI Planner**          | AI-powered study planner built using the MERN stack.           | MongoDB • Express • React • Node.js | 🚧 In Progress |
-
----
-
-# 📊 GitHub Analytics
-
----
-
-# 💻 Competitive Programming
-
-| Platform        | Details                     |
-| --------------- | --------------------------- |
-| 💛 **LeetCode** | 400+ Problems Solved        |
-| ☕ **Language**  | Java                        |
-| 🎯 **Focus**    | DSA & Interview Preparation |
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build Production-Ready MERN Applications
-- 📚 Strengthen Data Structures & Algorithms
-- 🌍 Contribute to Open Source
-- 💼 Secure a Software Engineering Internship
-- ⚡ Learn System Design
-
----
-
-# 💡 Quote
-
-> **"First, solve the problem. Then, write the code."**
-> — John Johnson
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.use this content and make
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
+</p>
