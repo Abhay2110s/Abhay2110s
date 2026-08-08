@@ -4,10 +4,6 @@
 
 ### Full Stack Developer • MERN Enthusiast • Competitive Programmer
 
-# 👋 Hi, I'm Abhay Singh
-
-### Full Stack Developer • MERN Enthusiast • Competitive Programmer
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay2110s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Abhay2110s?label=Followers&style=flat" alt="GitHub Followers" />
