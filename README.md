@@ -128,39 +128,26 @@ AI-powered study planner for organizing learning goals and study routines.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Abhay2110s&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=github_dark&hide_border=true"
-    width="48%"
-  />
-</p>
+<div align="center">
+<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api?username=Abhay2110s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+</div>
 
----
+### 📈 Activity Graph
 
-# 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%"/>
+</div>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=github-dark-blue&hide_border=true"
-    width="70%"
-  />
-</p>
+### 🐍 Contribution Snake
 
----
+> _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2110s&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
+<div align="center">
+  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+</div>
 ---
 
 # 🌱 Currently Exploring
