@@ -129,8 +129,8 @@ AI-powered study planner for organizing learning goals and study routines.
 # 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api?username=Abhay2110s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats-sigma-nine-66.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Abhay2110s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
 </div>
@@ -146,8 +146,13 @@ AI-powered study planner for organizing learning goals and study routines.
 > _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
 
 <div align="center">
-  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay2110s/Abhay2110s/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay2110s/Abhay2110s/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhay2110s/Abhay2110s/output/github-snake.svg" width="100%"/>
+  </picture>
 </div>
+
 ---
 
 # 🌱 Currently Exploring
