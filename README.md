@@ -132,7 +132,7 @@ AI-powered study planner for organizing learning goals and study routines.
 <img src="https://github-stats-extended.vercel.app/api?username=Abhay2110s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhay2110s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
 <br/><br/>
-<img src="https://streak-stats.demolab.com/?user=Abhay2110s&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhay2110s&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
 </div>
 
 ### 📈 Activity Graph
