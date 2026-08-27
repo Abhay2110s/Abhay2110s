@@ -17,7 +17,7 @@
 
 ---
 
-# 👋 About
+# 👋 About Me
 
 I'm **Abhay Singh**, a B.Tech CSE student and Full Stack Developer passionate about creating practical software and solving challenging problems.
 
