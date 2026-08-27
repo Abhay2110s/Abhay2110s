@@ -23,6 +23,7 @@ I'm **Abhay Singh**, a B.Tech CSE student and Full Stack Developer passionate ab
 
 My primary focus is the **MERN ecosystem**, while I continue exploring backend architecture, system design, and scalable applications.
 
+
 * 🎓 B.Tech — Computer Science & Engineering
 * 💻 Full Stack Development
 * ⚛️ MERN Stack
