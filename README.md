@@ -86,16 +86,13 @@ My primary focus is the **MERN ecosystem**, while I continue exploring backend a
 
 ### 🔄 ConvertHub
 
-<!-- TODO: replace with your real one-line description -->
-_Add a one-line description of what ConvertHub does._
+A responsive web-based toolbox for unit conversions, finance calculators, date & time tools, and everyday utilities — all in one place.
 
 **Stack**
 
-<!-- TODO: replace with your real tech stack, e.g. `React` · `Node.js` -->
-`Add tech stack`
+`React` · `Tailwind CSS` · `Framer Motion` · `Node.js` · `Express.js` · `REST APIs`
 
-**Status:** <!-- TODO: ✅ Completed / 🚀 Active / 🚧 In Progress -->
-🚧 In Progress
+**Status:** 🚀 Active
 
 </td>
 
@@ -149,16 +146,13 @@ AI-powered study planner for organizing learning goals and study routines.
 
 ### 🔒 Lockely
 
-<!-- TODO: replace with your real one-line description -->
-_Add a one-line description of what Lockely does._
+A high-security MERN password manager with zero-knowledge architecture, AES-256-GCM vault encryption, httpOnly cookie auth, and TOTP two-factor authentication.
 
 **Stack**
 
-<!-- TODO: replace with your real tech stack -->
-`Add tech stack`
+`MongoDB` · `Express.js` · `React` · `Node.js` · `Vite` · `Tailwind CSS`
 
-**Status:** <!-- TODO: ✅ Completed / 🚀 Active / 🚧 In Progress -->
-🚧 In Progress
+**Status:** 🚀 Active
 
 </td>
 <td width="50%" valign="top">
